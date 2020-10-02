@@ -1,0 +1,161 @@
+[
+  {
+    "model": "client.account",
+    "pk": "012bbaee-3712-4b86-b6d9-2dde74c6144d",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-10-01T22:21:18.970Z",
+      "is_client": true,
+      "username": "",
+      "email": "user2@some.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.account",
+    "pk": "07d2c936-26c4-4b73-b271-29e8285a4867",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-10-01T17:22:16.118Z",
+      "is_client": true,
+      "username": "",
+      "email": "user1@lol.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.account",
+    "pk": "1b73e805-a3a5-48cb-aeff-14206595bfb5",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-10-01T22:21:39.001Z",
+      "is_client": true,
+      "username": "",
+      "email": "user4@some.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.account",
+    "pk": "515cdb73-be37-413e-bf31-9ac9f27ab596",
+    "fields": {
+      "password": "pbkdf2_sha256$180000$5tKl8m5LepoJ$1Dv0z3e1KP1njNznTz7TTccRP5aaHKwXPDT2EFmgevA=",
+      "last_login": null,
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2020-10-01T14:27:20.943Z",
+      "is_client": false,
+      "username": "",
+      "email": "admin@admin.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.account",
+    "pk": "83971423-e252-4749-8088-a2f1f838e4f3",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-10-01T22:21:50.161Z",
+      "is_client": true,
+      "username": "",
+      "email": "user5@some.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.account",
+    "pk": "c3283854-0fba-49d7-91bb-61b53b76cc1b",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-10-01T22:21:29.262Z",
+      "is_client": true,
+      "username": "",
+      "email": "user3@some.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "client.clientaccount",
+    "pk": "42f5ca55-e6ef-4359-b105-b638a62398ed",
+    "fields": {
+      "account": "c3283854-0fba-49d7-91bb-61b53b76cc1b",
+      "inn": "899001290",
+      "cash": 1750.0
+    }
+  },
+  {
+    "model": "client.clientaccount",
+    "pk": "771d287e-4bef-44da-bc87-31e193a9ff82",
+    "fields": {
+      "account": "012bbaee-3712-4b86-b6d9-2dde74c6144d",
+      "inn": "7280290",
+      "cash": 1000.23
+    }
+  },
+  {
+    "model": "client.clientaccount",
+    "pk": "9aa3a604-05ab-439f-9469-84e65cc2afd6",
+    "fields": {
+      "account": "83971423-e252-4749-8088-a2f1f838e4f3",
+      "inn": "5093490",
+      "cash": 6400.070000000001
+    }
+  },
+  {
+    "model": "client.clientaccount",
+    "pk": "e9204fad-7793-472b-97e7-5fa8f549f23d",
+    "fields": {
+      "account": "1b73e805-a3a5-48cb-aeff-14206595bfb5",
+      "inn": "89902341",
+      "cash": 2100.3
+    }
+  },
+  {
+    "model": "client.clientaccount",
+    "pk": "efc8a5a2-f5f7-4113-b585-6ae3db50d6f7",
+    "fields": {
+      "account": "07d2c936-26c4-4b73-b271-29e8285a4867",
+      "inn": "0902903",
+      "cash": 2850.34
+    }
+  }
+]

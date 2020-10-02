@@ -1,0 +1,67 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "efc8a5a2-f5f7-4113-b585-6ae3db50d6f7",
+            "inn": "0902903",
+            "cash": 2850.34,
+            "account": {
+                "id": "07d2c936-26c4-4b73-b271-29e8285a4867",
+                "username": "",
+                "first_name": "",
+                "last_name": "",
+                "email": "user1@lol.com"
+            }
+        },
+        {
+            "id": "771d287e-4bef-44da-bc87-31e193a9ff82",
+            "inn": "7280290",
+            "cash": 1000.23,
+            "account": {
+                "id": "012bbaee-3712-4b86-b6d9-2dde74c6144d",
+                "username": "",
+                "first_name": "",
+                "last_name": "",
+                "email": "user2@some.com"
+            }
+        },
+        {
+            "id": "42f5ca55-e6ef-4359-b105-b638a62398ed",
+            "inn": "899001290",
+            "cash": 1750.0,
+            "account": {
+                "id": "c3283854-0fba-49d7-91bb-61b53b76cc1b",
+                "username": "",
+                "first_name": "",
+                "last_name": "",
+                "email": "user3@some.com"
+            }
+        },
+        {
+            "id": "e9204fad-7793-472b-97e7-5fa8f549f23d",
+            "inn": "89902341",
+            "cash": 2100.3,
+            "account": {
+                "id": "1b73e805-a3a5-48cb-aeff-14206595bfb5",
+                "username": "",
+                "first_name": "",
+                "last_name": "",
+                "email": "user4@some.com"
+            }
+        },
+        {
+            "id": "9aa3a604-05ab-439f-9469-84e65cc2afd6",
+            "inn": "5093490",
+            "cash": 6400.070000000001,
+            "account": {
+                "id": "83971423-e252-4749-8088-a2f1f838e4f3",
+                "username": "",
+                "first_name": "",
+                "last_name": "",
+                "email": "user5@some.com"
+            }
+        }
+    ]
+}
